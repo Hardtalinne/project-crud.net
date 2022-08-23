@@ -48,7 +48,6 @@ namespace ProjectCrud.Infra.Repository
             }
         }
 
-
         public async Task<bool> DeleteAsync(Order order)
         {
             try
@@ -67,13 +66,14 @@ namespace ProjectCrud.Infra.Repository
         public async Task<Order?> FindByIdAsync(Guid orderId)
         {
             return await _dbContext.Orders
+                 .Include(x => x.OrderProduct).ThenInclude(x => x.Product)
                  .FirstOrDefaultAsync(x => x.Id == orderId);
         }
 
         public async Task<ICollection<Order>> FindAllAsync()
         {
             return await _dbContext.Orders
-                .Include(x => x.OrderProduct)
+                .Include(x => x.OrderProduct).ThenInclude(x => x.Product)
                 .ToListAsync();
         }
     }

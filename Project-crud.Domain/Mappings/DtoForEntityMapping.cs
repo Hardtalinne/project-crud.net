@@ -11,6 +11,7 @@ namespace ProjectCrud.Domain.Mappings
             CreateMap<ProductDto, Product>();
             CreateMap<OrderResponseDto, Order>();
             CreateMap<CategoryDto, Category>();
+            CreateMap<OrderProductDto, OrderProduct>();
         }
     }
 }

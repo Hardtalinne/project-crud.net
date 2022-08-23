@@ -3,6 +3,6 @@
     public class OrderResponseDto
     {
         public Guid Id { get; set; }
-        public OrderProductDto? OrderProduct { get; set; }
+        public ICollection<OrderProductDto> OrderProduct { get; set; }
     }
 }
