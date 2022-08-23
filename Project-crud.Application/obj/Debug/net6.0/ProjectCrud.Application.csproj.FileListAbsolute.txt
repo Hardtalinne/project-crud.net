@@ -1,0 +1,15 @@
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\bin\Debug\net6.0\ProjectCrud.Application.deps.json
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\bin\Debug\net6.0\ProjectCrud.Application.dll
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\bin\Debug\net6.0\ProjectCrud.Application.pdb
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\bin\Debug\net6.0\ProjectCrud.Domain.dll
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\bin\Debug\net6.0\ProjectCrud.Domain.pdb
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\ProjectCrud.Application.csproj.AssemblyReference.cache
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\ProjectCrud.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\ProjectCrud.Application.AssemblyInfoInputs.cache
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\ProjectCrud.Application.AssemblyInfo.cs
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\ProjectCrud.Application.csproj.CoreCompileInputs.cache
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\ProjectCrud.Application.csproj.CopyComplete
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\ProjectCrud.Application.dll
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\refint\ProjectCrud.Application.dll
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\ProjectCrud.Application.pdb
+C:\Users\aline.silveira\source\repos\crud-category\Project-crud.Application\obj\Debug\net6.0\ref\ProjectCrud.Application.dll
